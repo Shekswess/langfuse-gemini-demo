@@ -1,7 +1,7 @@
 # langfuse-gemini-demo
 This is a demo app for the `Gemini Chat Assistant` mainly to showcase how to use [Langfuse](https://langfuse.com) in combination with [Google Generative AI](https://ai.google.dev/gemini-api/docs/models/gemini) or any other LLM provider.
 
-## Usage
+## 🛠️ Usage
 
 1. Clone the repository
 ```bash
@@ -30,11 +30,11 @@ cp .env.example .env
 uv run streamlit run app.py
 ```
 
-## Showcase
+## 🖼️ Showcase
 ![image](https://github.com/user-attachments/assets/2ff4252b-0e33-4a0c-af55-4e0b66635bac)
 
 
-## Repository Structure
+## 🗂️ Repository Structure
 ```plaintext
 .
 ├── .env                                    # Environment variables       
